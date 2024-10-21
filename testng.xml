@@ -4,7 +4,6 @@
   <test thread-count="5" name="Regression"> 
     <classes>
       <class name="demoJenkins.demoTest1"/>
-    
     </classes>
   </test> 
 </suite>
